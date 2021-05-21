@@ -1,0 +1,5 @@
+# ignore all generated text files
+*.txt
+
+# ignore all generated images
+*.jpeg
