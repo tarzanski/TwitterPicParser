@@ -1,6 +1,3 @@
-import requests, os, sys
-
-from requests_html import HTMLSession
 from selenium import webdriver
 from selenium.webdriver.common.keys import Keys
 
@@ -12,16 +9,6 @@ def get():
 
     driver.get(f"https://twitter.com/{username}")
 
-    # session = HTMLSession()
-
-    # r = session.get('http://python-requests.org')
-
-    # r.html.render()
-
-    # user = requests.get('')
-    # print(user,"\n")
-    # print(user.headers) 
-    # print(user.text)
     return
 
 

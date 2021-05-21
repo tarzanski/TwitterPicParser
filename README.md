@@ -7,10 +7,13 @@ I was lazy, so I spent more time making this program then it would've to downloa
 
 Some stuff you need:
 
+
 Python packages:
 
 Selenium (install using pip)
+
 requests (also using pip)
+
 
 Other stuff:
 

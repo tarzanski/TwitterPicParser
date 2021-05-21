@@ -3,3 +3,5 @@
 
 # ignore all generated images
 *.jpeg
+*.png
+*.jpg
