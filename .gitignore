@@ -1,5 +1,6 @@
 # ignore output of program
 output.txt
+pictures/set.txt
 
 # ignore all generated images
 *.jpeg
