@@ -1,5 +1,5 @@
-# ignore all generated text files
-*.txt
+# ignore output of program
+output.txt
 
 # ignore all generated images
 *.jpeg
